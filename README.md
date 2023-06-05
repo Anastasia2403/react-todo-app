@@ -1,3 +1,3 @@
 # React Todo App
 
-- [DEMO LINK](https://Anastasia2403.github.io/react_todo-app/)
+- [DEMO LINK](https://anastasia2403.github.io/react-todo-app/)
